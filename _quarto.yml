@@ -1,0 +1,14 @@
+project:
+  title: "class-pathfinder"
+  output-dir: _slides
+
+format:
+  revealjs: 
+    slide-number: true
+    chalkboard: 
+      buttons: false
+    preview-links: auto
+    logo: images/ihealth_base_pos.png
+    footer: "[Oxford iHealth](https://oxford-ihtm.io)"
+    css: styles.css
+    
